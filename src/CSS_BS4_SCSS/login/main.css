@@ -1,0 +1,79 @@
+body {
+  background: url("http://127.0.0.1/Agro-Agency/img/1.jpg") center/cover fixed;
+}
+
+body .bg {
+  opacity: 0.7;
+  background-color: black;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+}
+
+body #pwd,
+body #un {
+  opacity: 0.7;
+  width: 300px;
+  font-family: comfortaa;
+}
+
+body .bt {
+  width: 100px;
+}
+
+body lable {
+  font-family: comfortaa;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: comfortaa;
+  src: url("http://127.0.0.1/src/Fonts/Comfortaa/Comfortaa-VariableFont_wght.ttf");
+}
+
+@font-face {
+  font-family: honey;
+  src: url("http://127.0.0.1/src/Fonts/Simonetta/Simonetta-Black.ttf");
+}
+
+@font-face {
+  font-family: lacquer;
+  src: url("http://127.0.0.1/src/Fonts/Lacquer/Lacquer-Regular.ttf");
+}
+
+@font-face {
+  font-family: merriweather;
+  src: url("http://127.0.0.1/src/Fonts/Merriweather/Merriweather-Regular.ttf");
+}
+
+@font-face {
+  font-family: odibeeSans;
+  src: url("http://127.0.0.1/src/Fonts/OdibeeSans/OdibeeSans-Regular.ttf");
+}
+
+@font-face {
+  font-family: pacifico;
+  src: url("http://127.0.0.1/src/Fonts/Pacifico/Pacifico-Regular.ttf");
+}
+
+@font-face {
+  font-family: simonetta;
+  src: url("http://127.0.0.1/src/Fonts/Simonetta/Simonetta-Regular.ttf");
+}
+
+@font-face {
+  font-family: tradeWinds;
+  src: url("http://127.0.0.1/src/Fonts/TradeWinds/TradeWinds-Regular.ttf");
+}
+
+@font-face {
+  font-family: yeonsung;
+  src: url("http://127.0.0.1/src/Fonts/Yeon_Sung/YeonSung-Regular.ttf");
+}
+
+@font-face {
+  font-family: zcool;
+  src: url("http://127.0.0.1/src/Fonts/ZCOOL_QingKe_HuangYou/ZCOOLQingKeHuangYou-Regular");
+}
+/*# sourceMappingURL=main.css.map */
